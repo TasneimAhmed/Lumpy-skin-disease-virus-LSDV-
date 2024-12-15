@@ -44,12 +44,14 @@ Feature Reduction
 
 Perform PCA (Principal Component Analysis) to reduce dimensionality and improve efficiency.
 ## ⚙️ Tools and Libraries
+
 Programming Language: Python
+
 Libraries:
+
 Data Handling: pandas, numpy
 Visualization: matplotlib, seaborn
 Machine Learning: scikit-learn, imbalanced-learn
-Spatial Analysis: geopandas, folium (optional)
 
 ## 🔑 Key Steps
 Clean and preprocess the dataset (features and target).
