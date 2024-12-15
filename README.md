@@ -65,3 +65,7 @@ Visualize and interpret model results.
 ## 🎯 Outcome
 This machine learning pipeline predicts regions where Lumpy Skin Disease may occur, leveraging environmental and climatic variables. The results can help in early intervention and disease management for cattle populations.
 
+## Run the Project
+**Clone the repository:**
+git clone https://github.com/yourusername/Breast_Cancer.git
+
