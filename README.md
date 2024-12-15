@@ -12,25 +12,7 @@ Entries: 24,803 rows
 Features: 17 columns
 
 ## The dataset comprises the following columns:
-
-Column  	Description	
-x	        Longitude of the region	 
-y	        Latitude of the region	
-cld	      Cloud cover (%)	
-dtr	      Diurnal temperature range (°C)	
-frs	      Frequency of frost (days/year)	
-pet	      Potential evapotranspiration (mm)	
-pre      	Precipitation (mm/year)	 
-tmn       Minimum temperature (°C)	
-tmp	      Average temperature (°C)	
-tmx	      Maximum temperature (°C)	
-vap     	Vapor pressure (kPa)	
-wet       Wet days (number of days with precipitation ≥ 1mm)	
-elevation	 Elevation above sea level (meters)	
-dominant_land_cover	Land cover type (categorical, encoded as integers)
-X5_Ct_2010_Da	Climate-related factor (specific to 2010, variable context)	
-X5_Bf_2010_Da	Climate-related factor (specific to 2010, variable context)	
-lumpy	Target variable:  Presence of Lumpy Skin Disease (0/1)	
+ ![image](https://github.com/user-attachments/assets/62cbc30d-97f8-48af-a20f-efb7c5755c55)
 
 ## 📂 Workflow Outline
 **Read Data**
