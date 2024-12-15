@@ -67,5 +67,5 @@ This machine learning pipeline predicts regions where Lumpy Skin Disease may occ
 
 ## Run the Project
 **Clone the repository:**
-git clone https://github.com/yourusername/Breast_Cancer.git
+[git clone https://github.com/yourusername/Breast_Cancer.git](https://github.com/TasneimAhmed/Lumpy-skin-disease-virus-LSDV-.git)
 
