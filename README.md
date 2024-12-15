@@ -15,12 +15,15 @@ Features: 17 columns
  ![image](https://github.com/user-attachments/assets/62cbc30d-97f8-48af-a20f-efb7c5755c55)
 
 ## 📂 Workflow Outline
+
 **Read Data**
 Importing the dataset and inspecting its structure.
+
 **Preprocessing**
 Handling missing values (if any).
 Feature scaling/normalization for numeric columns.
 Encoding categorical variables.
+
 **Visualization**
 
 Exploratory Data Analysis (EDA) to identify trends and relationships in the features.
@@ -28,7 +31,9 @@ Visualization of spatial distribution, temperature effects, and other climatic f
 Modeling
 
 **Baseline Model:** Logistic Regression 
+
 **Additional Models:**  Random Forest, and Gradient Boosting techniques , SVM.
+
 ## Class Imbalance Handling
 
 Apply SMOTE (Synthetic Minority Over-sampling Technique) to deal with any imbalance in the target variable (lumpy).
